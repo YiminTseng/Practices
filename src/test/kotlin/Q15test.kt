@@ -1,0 +1,2 @@
+class Q15test {
+}
